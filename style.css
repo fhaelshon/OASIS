@@ -334,13 +334,15 @@ a {
   letter-spacing: 0.03em;
 }
 .tile-a { 
-  background: var(--black); 
+  /* background: var(--black);  */
+  background-image:url("https://www.shutterstock.com/fr/image-photo/3d-rendering-modern-open-plan-office-2744595281?trackingId=8cef03d6-e636-4734-8394-34350e266731&listId=searchResults");
 }
 .tile-a span { 
   color: var(--white); 
 }
 .tile-b { 
   background: var(--orange); 
+  background-image:url("");
 }
 .tile-b span { 
   color: var(--white); 
@@ -348,12 +350,14 @@ a {
 .tile-c { 
   background: var(--cream);
   border: 1px solid var(--line-dark); 
+  bg-image:url("https://www.shutterstock.com/fr/image-photo/modern-coworking-kitchen-area-featuring-wooden-2646292327");
 }
 .tile-c span { 
   color: var(--black); 
 }
 .tile-d { 
   background: var(--black-soft); 
+  background-image:url("https://www.shutterstock.com/shutterstock/photos/2797274805/display_1500/stock-photo-group-of-professionals-sitting-on-stepped-lawn-in-an-urban-plaza-sharing-laptops-and-ideas-during-2797274805.jpg");
 }
 .tile-d span { 
   color: var(--white); 
