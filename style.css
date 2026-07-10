@@ -183,6 +183,9 @@ a {
   background: var(--black);
   overflow: hidden;
   padding-top: 6rem;
+  background-image: url('https://media.istockphoto.com/id/2094337698/fr/photo/une-%C3%A9quipe-diversifi%C3%A9e-collabore-dans-un-espace-de-coworking-moderne.jpg?s=612x612&w=0&k=20&c=R_NRUKpNgj8kencDfW_C4RA3ZztR3Hap1qn5HfRUnss=');
+  background-size: cover;
+  background-position: center;
 }
 .hero-orbit {
   position: absolute;
